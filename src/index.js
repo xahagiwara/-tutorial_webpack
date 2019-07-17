@@ -2,4 +2,4 @@
 import { hello } from "./sub";
 
 // sub.jsに定義されたJavaScriptを実行する。
-hello()
+hello("こんにちは、世界!");
